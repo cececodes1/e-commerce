@@ -1,0 +1,28 @@
+.hero-section {
+    background-image: url('caroline-attwood-DcOcYbh8m00-unsplash.jpg');
+    background-size: cover;
+    color: white;
+    padding: 100px 0;
+  }
+  
+  .shop-now-btn {
+    background-color: #ff6f61; 
+    border: none;
+  }
+  
+  .about-section {
+    background-color: #f9f9f9;
+    padding: 40px 0;
+  }
+  
+  .newsletter-input {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-right: 10px;
+  }
+  
+  .subscribe-btn {
+    background-color: #ff6f61; 
+    border: none;
+  }
